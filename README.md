@@ -8,7 +8,8 @@ Author: Michael Getsos
 *   Prof. Osera for help on compiler issues 
 *   Java Version: 23.0.2 2025-01-21
 *   IDE Used: Visual Studio Code 
-*   Official Java documentation: Java SE 23 API Documentation (file I/O, Scanner, )
+*   Official Java documentation: Java SE 23 API Documentation (file I/O, Scanner, reflection!)
+*   Oracle Reflection guide (https://www.oracle.com/technical-resources/articles/java/javareflection.html)
 *   JUnit 5
 *   
 
