@@ -262,13 +262,10 @@ public class LootGenerator {
 // The Supporting Classes
 
 class Monster {
-    String name, treasureClass, type;
-    int level;
+    String name, treasureClass;
 
     Monster(String name, String type, int level, String treasureClass) {
         this.name = name;
-        this.type = type;
-        this.level = level;
         this.treasureClass = treasureClass;
     }
 }

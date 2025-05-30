@@ -11,9 +11,9 @@ Author: Michael Getsos
 *   Official Java documentation: Java SE 23 API Documentation (file I/O, Scanner, reflection!)
 *   Oracle Reflection guide (https://www.oracle.com/technical-resources/articles/java/javareflection.html)
 *   JUnit 5
-*   
+*   Since this project was not submitted on gradescope before - no grader feedback 
 
 ## Revision Log
 
-*   This is the initial submission for Incomplete. Due 05/30/2025. 
+*   This is the initial (and final) submission for Incomplete. Due 05/30/2025. 
 *   Submitted by email to registrar on 05/30/2025. 
